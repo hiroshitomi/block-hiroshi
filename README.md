@@ -25,5 +25,5 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 # If you see the project on Production 
 
-Navigate to [https://block-hiroshi.vercel.app/]
+Navigate to [https://block-hiroshi.vercel.app/](https://block-hiroshi.vercel.app/)
 

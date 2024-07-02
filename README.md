@@ -1,4 +1,4 @@
-# Prueba técnica - clone web BLOCK
+# Technical test - clone web BLOCK
 
 Task:
  Create a responsive web page that replicates the homepage of the website block.xyz.
@@ -17,7 +17,7 @@ Task:
 
 ### `npm i`
 
-In the project directory, you can run in development mode:
+In the project directory, you can run locally:
 
 ### `npm run dev`
 

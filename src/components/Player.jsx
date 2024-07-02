@@ -12,7 +12,9 @@ const Player = () => {
         </div>
       </button>
       <button className="tidalBtn">
-        <SiTidal className="iconTidal"/>
+        <a href="https://tidal.com/browse/playlist/3d95c4f6-dad5-4d7f-a469-8bde01b7771d" target="_blank">
+          <SiTidal className="iconTidal"/>
+        </a>
       </button>
     </div>
     

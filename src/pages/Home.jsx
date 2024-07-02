@@ -3,7 +3,6 @@ import PrimaryNavbar from "../components/PrimaryNavbar";
 import SecondNavbar from "../components/SecondNavbar";
 import Legal from "../components/Legal";
 import HeroSection from "../components/HeroSection";
-import Background from "../components/Background";
 
 const Home = () => {
   return (

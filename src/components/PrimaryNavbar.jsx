@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { IoAccessibility } from "react-icons/io5";
-import { div } from "three/examples/jsm/nodes/Nodes.js";
 
 const PrimaryNavbar = () => {
   const [show, setShow] = useState(false);
